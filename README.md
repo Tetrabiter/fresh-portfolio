@@ -1,4 +1,3 @@
-```markdown
 # 🖼️ Fresh presentation
 
 **Fresh presentation** is a web-based tool that allows users to upload their old PowerPoint presentations (`.pptx`), and receive a redesigned version in a modern, clean style.
